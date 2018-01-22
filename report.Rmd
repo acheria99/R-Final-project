@@ -1,0 +1,1080 @@
+---
+title: "Final project - Results from the MTA-LFZE *Active Music Learning* project"
+author: "Borbála Lukács"
+date: '22 January 2018'
+output: html_document
+---
+
+## Abstract
+Although several studies have proved the positive impacts of out-of-school music training on basic cognitive and linguistic abilities, only a few music interventions have examined the possible benefits of music education in school contexts. In the present study, we aimed to investigate the behavioral transfer effects of a movement-based music education program in first-grade elementary school children. Assessments were carried out at the beginning and at the end of the first school year in order to evaluate the development of music perception, rhythmic entrainment, linguistic and intellectual abilities after 6 months of music education. We compared two groups of first-year students participating in the special music instruction: children were either attended the class with an intensive music curriculum or the class with a mathematics curriculum in the same elementary school. When comparing the music and the mathematics class, we found no significant difference between the groups in any test. However, associations between specific musical auditory skills and language-related abilities were stronger in the music class compared to the class with the mathematics curriculum. Our results indicate that improvements in musical and linguistic abilities may appear in the first school year regardless of the intensity of musical activities in elementary school education. Nonetheless, even six months of music instruction can enhance the associations between music perception and linguistic abilities.  
+
+## The present study
+The present study was conducted by the MTA-LFZE Research Group on Active Music Learning.  Our research group is aimed to develop a new, movement-based music education program for elementary school children. Moreover, we investigate the potential transfer effects of elementary school music instruction on the development of musical, language-related and  intellectual abilities. We started this longitudinal research last year, in the fall of 2016, and we will measure psychological and neurocognitive changes in children who participate in the ?Active music learning? program from first to third grade.   
+In this report, I aimed to summarize and present the first results of the psychological assessments of our project. The dataset I used in this analysis (*music_training_data.sav*) do not comprise all the measured abilities: I focused only on data regarding the development of music perception, rhythmic entrainment, linguistic abilities and general intellectual abilities (IQ).   
+
+### Research questions and hypotheses
+The purpose of the present study was twofold. The first purpose was to explore the development of intellectual, musical, linguistic and synchronization abilities in an elementary school class with an intensive music curriculum and in another class with a mathematics curriculum. The second purpose was to investigate the connection between IQ, music aptitude and linguistic abilities in children, as an indicator of musical transfer effect. We expected to find:
+1.	significant improvements in the measured abilities comparing pretest and posttest results; 
+2.	significant differences between children in the music class and children in the mathematics class at the end of the school year on the measures of intellectual, musical and language-related abilities. The class with the intensive music curriculum was hypothesized to perform more accurately on these tests relative to the class with the mathematics curriculum;
+3.	significant associations between musical and language-related abilities.
+
+## Method
+### Participants 
+Two classes with different school curricula were recruited from the same elementary school in Budapest, Hungary. Fifty-eight first-grade students participated in the study: thirty-one children (20 girls) were in the intensive musically educated class (music class) and 27 children (8 girls) were in the class with the mathematics curriculum (maths class). Our sample aged between 6 and 7 years. Children in the music class were in the age range of 81 to 95 months (*M* = 88.65 months, *SD* = 3.80 months) and children in the maths class were between 80 to 97 months (*M* = 89.85 months, *SD* = 4.22 months). 
+Both classes participated in the same movement-based, ?active music learning? program but the intensity of musical activities differed between the groups: children in the music class had five music lessons per week, whereas the maths class was provided only one music lesson according to the school curriculum. Students did not engage in any other musical activities outside of school and none of the participants had received formal music lessons or had played any musical instrument before school instruction. 
+Both classes participated in the same movement-based, so called *active music learning* program but the intensity of musical activities differed in the groups: children in the music class had five music lessons per week, whereas the maths class was provided only one music lesson according to the school curriculum. Students did not engage in any other musical activities outside of school and none of the participants had received formal music lessons or had played any musical instrument before school instruction.
+
+### Measurements 
+#### Cognitive abilities
+General intellectual abilities were evaluated through the short form of the Hungarian standardized version of the Wechsler Intelligence Scale for Children ? Fourth Edition (WISC-IV; Nagyn? R?z, L?nyin? Engelmayer, Kuncz, M?sz?ros, & Mlink?, 2008; Wechsler, 2003). Three subtests were recorded to measure particular subsets of intellectual abilities. We administered *Block Design* to measure non-verbal reasoning and visual-spatial skills, *Digit Span* (Forward and Backward), which tests verbal working memory, and *Vocabulary*, which examines verbal knowledge and concept formation.
+
+#### Reading, phonological awareness and rapid naming 
+The Hungarian version of Dyslexia Differential Diagnosis Maastricht (3DM-H; T?th, Cs?pe, Vaessen, & Blomert, 2014; Blomert & Vaessen, 2009) was used to measure linguistic abilities. Three subtests were administered from the battery.   
+The *Reading* subtest presented participants high-frequent words. Instructions were presented on the screen and heard via headphone simultaneously. The subtest started with five practice words and were followed by two blocks of 15 words. Children were asked to read aloud as many words in 30 s as possible. In case the participant was not able the read the practice words, we did not administered the subtest. Based on the number of correct words read in a second (item/s), a reading fluency score was calculated.  
+The *Phoneme Deletion* subtest measured phonological awareness by asking participants to delete specified speech sounds from the beginning, end or middle of one-syllable pseudo-words and to pronounce the resulting words. During the testing, five pseudo-words were presented. Participants were not allowed to see the words on the screen, they heard the instructions and the test items via the headphone. The number of correct items defined the accuracy scale (percentage of correct answers) and reaction time defined the speed scale. An averaged PA sclae was defined as an indicator of phonological awareness.  
+The *Rapid Automatized Naming* (RAN) subtest measured the ability to rapidly name familiar visual symbols such as digits and objects. Students were asked to name items on a sheet (objects and digit task) as quickly as possible (i.e., 2 sheets per task, 15 items per sheet in different order). Response time was mean RT over two sheets, and an averaged RAN scale was defined as an indicator of rapid naming skill.
+
+#### Musical abilities
+A Hungarian online diagnostic measurement of musical abilities (Asztalos & Csap?, 2016) was used to test basic musical auditory abilities in children. Students could listen to the stimuli and instructions via headphones. The battery consisted of six subtests. The discrimination subtests (Melody, Pitch, Rhythm, Harmony, Tempo) based on the ability to differentiate and memorize musical patterns, and students had to decide whether the two stimuli were identical or different. To examine visual connection ability, participants had to choose one picture of four that corresponds to the melody contour that they heard. All subtests contained 15 items with closed questions (same/different), and each correct answer earned one point. An accuracy scale for each subtest was defined based on the number of correct items. 
+
+#### Rhythmic entrainment
+To test sensorimotor synchronization to rhythmic stimuli, children were asked to reproduce rhythmic patterns by tapping to the beat of the auditory stimuli (*paced* condition) and continue tapping when the metronome disappeared (*unpaced* condition). Tapping production was administered by a MatLab based computer program. Children heard three different auditory stimuli based on either a 1.5 Hz, a 2 Hz or a 2.5 Hz rhythmic sequence. Tapping accuracy scales for each condition (paced/unpaced; 1.5 Hz/2 Hz/2.5 Hz) were defined by the variability of tapping compared to the periodicity of auditory stimuli.
+
+### Procedure
+Tests were administered in the fall and the spring term of the first school year: children were tested at the beginning of schooling in October (*pretest* as baseline), and were retested after 6 months of education, at the end of the first school year in April (*posttest*). Students completed the same tasks in the pre- and posttest phase. 
+
+
+## Exploratory data analysis
+
+```{r, message=FALSE, warning=FALSE}
+getwd()
+setwd("E:/PhD/kurzusok/programming in R/final project")
+
+library(tidyverse)
+library(magrittr)
+library(psych)
+library(haven)
+library(ez)
+library(reshape2)
+library(corrplot)
+library(Hmisc)
+library(car)
+```
+
+### Dataset
+The final dataset (*stand_data*) comprised variables related to the measured intellectual, linguistic, musical and entrainment abilities. Two groups were assessed (music/maths), gender (male/female) and age (age_months) were also documented. The present summary focused on the analysis of the pretest and posttest results regarding IQ (st_Block_design, st_Digit_span, st_Vocabulary), linguistic abilities (st_reading, st_PA_scale, st_RAN_scale), musical auditory skills (melody, pitch, rhythm, harmony, tempo, visual connection), and rhythmic entrainment (entr_paced, entr_unpaced?). In case of IQ and language-related tests, standardized scores were used.
+
+
+``` {r}
+# Importing the dataset
+raw_data <- read_sav("music_training_data.sav")
+# selecting variables
+stand_data <- raw_data %>%
+  select(ID, gender, group, age_months,
+         st_Block_design, st_Digit_span, st_Vocabulary,
+         st_Block_design_2, st_Digit_span_2, st_Vocabulary_2,
+         st_reading, st_PA_scale, st_RAN_scale, 
+         st_reading_2, st_PA_scale_2, st_RAN_scale_2, 
+         melody, pitch, rhythm, harmony, tempo, vis_connection,
+         melody_2, pitch_2, rhythm_2, harmony_2, tempo_2, vis_connection_2,
+         entr_paced, entr_unpaced, entr_paced_2, entr_unpaced_2,
+         entr_paced_2Hz, entr_paced_2.5Hz, entr_paced_1.5Hz,
+         entr_paced_2Hz_2, entr_paced_2.5Hz_2, entr_paced_1.5Hz_2,
+         entr_unpaced_2Hz, entr_unpaced_2.5Hz, entr_unpaced_1.5Hz,
+         entr_unpaced_2Hz_2, entr_unpaced_2.5Hz_2, entr_unpaced_1.5Hz_2)
+```
+
+First, the type of variables was checked.
+
+``` {r}
+stand_data 
+```
+
+The output shows that gender and group variables are characters, and all the other variables are doubles. In order to analyze these data later, the type of these variables were changed to numeric.
+
+``` {r eval = FALSE}
+# change the type of variables to numeric
+data_type <- stand_data %>%
+  select(age_months:entr_unpaced_1.5Hz_2)
+data_type <- as.data.frame(lapply(data_type, as.numeric))
+data_chr <- stand_data %>%
+  select(gender, group)
+# merge the splitted subsets
+stand_data <- cbind(data_chr, data_type)
+# check the type of variables
+str(stand_data)
+```
+
+Missing values were checked in the dataset. 
+
+``` {r eval = FALSE}
+# checking missing data
+is.na(stand_data) 
+```
+
+The test revealed that there were several missing data in pretest reading and PA variables and, in case of two participants, in posttest musical tasks. In analyses, these missing data were omitted pairwise or listwise, depending on the type of statistical analysis.
+I computed descriptive statistics for each variable to check whether there was any error in data recording (*min* and *max* values) and to check values related to normality (*skew* and *kurtosis*). 
+
+``` {r message=FALSE, warning=FALSE}
+# Descriptive statistics by group and gender
+descr_stats_groups <- describe.by(stand_data, group = stand_data$group, mat = TRUE) 
+descr_stats_gender <- describe.by(stand_data, group = stand_data$gender, mat = TRUE) 
+```
+
+Results linked to skewness and kurtosis indicated that there might be several variables which were not normally distributed. Therefore, variables were visualized by boxplots to explore the distribution of data. Plots show pretest and posttest distribution in the groups separately. 
+
+```{r message=FALSE, fig.align="center"}
+# Exploratory plots
+# IQ tasks
+attach(stand_data)
+par(mfrow = c(2,3))
+boxplot(st_Block_design ~ group,
+        main = "Block design - Pretest", ylab = "mean scores (standardized)")
+boxplot(st_Digit_span ~ group,
+        main = "Digit span - Pretest", ylab = "mean scores (standardized)")
+boxplot(st_Vocabulary ~ group,
+        main = "Vocabulary - Pretest", ylab = "mean scores (standardized)")
+boxplot(st_Block_design_2 ~ group,
+        main = "Block design - Posttest", ylab = "mean scores (standardized)")
+boxplot(st_Digit_span_2 ~ group,
+        main = "Digit span - Posttest", ylab = "mean scores (standardized)")
+boxplot(st_Vocabulary_2 ~ group,
+        main = "Vocabulary - Posttest", ylab = "mean scores (standardized)")
+
+
+# Language-related tasks
+attach(stand_data)
+par(mfrow = c(2,3))
+boxplot(st_reading ~ group,
+        main = "Reading - Pretest", ylab = "mean scores (standardized)")
+boxplot(st_PA_scale ~ group,
+        main = "Phonological awareness - Pretest", ylab = "mean scores (standardized)")
+boxplot(st_RAN_scale ~ group,
+        main = "RAN - Pretest", ylab = "mean scores (standardized)")
+boxplot(st_reading_2 ~ group,
+        main = "Reading - Posttest", ylab = "mean scores (standardized)")
+boxplot(st_PA_scale_2 ~ group,
+        main = "Phonological awareness - Posttest", ylab = "mean scores (standardized)")
+boxplot(st_RAN_scale_2 ~ group,
+        main = "RAN - Posttest", ylab = "mean scores (standardized)")
+```
+
+```{r message=FALSE, fig.align="center", fig.width=15}
+# Music tasks
+attach(stand_data)
+par(mfrow = c(2,6))
+boxplot(melody ~ group,
+        main = "Melody - Pretest", ylab = "mean scores")
+boxplot(pitch ~ group,
+        main = "Pitch - Pretest", ylab = "mean scores")
+boxplot(rhythm ~ group,
+        main = "Rhythm - Pretest", ylab = "mean scores")
+boxplot(harmony ~ group,
+        main = "Harmony - Pretest", ylab = "mean scores")
+boxplot(tempo ~ group,
+        main = "Tempo - Pretest", ylab = "mean scores")
+boxplot(vis_connection ~ group,
+        main = "Visual connection - Pretest", ylab = "mean scores")
+boxplot(melody_2 ~ group,
+        main = "Melody - Posttest", ylab = "mean scores")
+boxplot(pitch_2 ~ group,
+        main = "Pitch - Posttest", ylab = "mean scores")
+boxplot(rhythm_2 ~ group,
+        main = "Rhythm - Posttest", ylab = "mean scores")
+boxplot(harmony_2 ~ group,
+        main = "Harmony - Posttest", ylab = "mean scores")
+boxplot(tempo_2 ~ group,
+        main = "Tempo - Posttest", ylab = "mean scores")
+boxplot(vis_connection_2 ~ group,
+        main = "Visual connection - Posttest", ylab = "mean scores")
+
+# Rhythmic entrainment
+attach(stand_data)
+par(mfrow = c(2,6))
+boxplot(entr_paced_1.5Hz ~ group,
+        main = "Paced 1.5Hz - Pretest", ylab = "mean scores")
+boxplot(entr_paced_2Hz ~ group,
+        main = "Paced 2Hz - Pretest", ylab = "mean scores")
+boxplot(entr_paced_2.5Hz ~ group,
+        main = "Paced 2.5Hz - Pretest", ylab = "mean scores")
+boxplot(entr_unpaced_1.5Hz ~ group,
+        main = "Unpaced 1.5Hz - Pretest", ylab = "mean scores")
+boxplot(entr_unpaced_2Hz ~ group,
+        main = "Unpaced 2Hz - Pretest", ylab = "mean scores")
+boxplot(entr_unpaced_2.5Hz ~ group,
+        main = "Unpaced 2.5Hz - Pretest", ylab = "mean scores")
+boxplot(entr_paced_1.5Hz_2 ~ group,
+        main = "Paced 1.5Hz - Posttest", ylab = "mean scores")
+boxplot(entr_paced_2Hz_2 ~ group,
+        main = "Paced 2Hz - Posttest", ylab = "mean scores")
+boxplot(entr_paced_2.5Hz_2 ~ group,
+        main = "Paced 2.5Hz - Posttest", ylab = "mean scores")
+boxplot(entr_unpaced_1.5Hz_2 ~ group,
+        main = "Unpaced 1.5Hz - Posttest", ylab = "mean scores")
+boxplot(entr_unpaced_2Hz_2 ~ group,
+        main = "Unpaced 2Hz - Posttest", ylab = "mean scores")
+boxplot(entr_unpaced_2.5Hz_2 ~ group,
+        main = "Unpaced 2.5Hz - Posttest", ylab = "mean scores")
+```
+
+These boxplots confirmed that normal distribution of data might be violated in several cases. These plots also show that there were several outliers in the data but these cases were related to different participants and different subtests. Therefore, we did not exclude any participant from the analysis. 
+Shapiro-Wilk normality tests were computed to check normal distribution numerically by gender and groups. 
+
+```{r warning=FALSE}
+## Shapiro-Wilk normality tests
+# by groups
+# music class
+shapiro_music <- stand_data %>%
+  filter(group == "music") %>%
+  select(st_Block_design:entr_unpaced_1.5Hz_2)
+lshap_music <- lapply(shapiro_music, shapiro.test)
+lres_music <- sapply(lshap_music, `[`, c("statistic","p.value"))
+lres_music <- as.data.frame(lres_music)
+View(lres_music)
+# maths class
+shapiro_maths <- stand_data %>%
+  filter(group == "maths") %>%
+  select(st_Block_design:entr_unpaced_1.5Hz_2)
+lshap_maths <- lapply(shapiro_maths, shapiro.test)
+lres_maths <- sapply(lshap_maths, `[`, c("statistic","p.value"))
+lres_maths <- as.data.frame(lres_maths)
+View(lres_maths)
+# by gender
+# female
+shapiro_female <- stand_data %>%
+  filter(gender == "female") %>%
+  select(st_Block_design:entr_unpaced_1.5Hz_2)
+lshap_female <- lapply(shapiro_female, shapiro.test)
+lres_female <- sapply(lshap_female, `[`, c("statistic","p.value"))
+lres_female <- as.data.frame(lres_female) 
+View(lres_female)
+# male
+shapiro_male <- stand_data %>%
+  filter(gender == "male") %>%
+  select(st_Block_design:entr_unpaced_1.5Hz_2)
+lshap_male <- lapply(shapiro_male, shapiro.test)
+lres_male <- sapply(lshap_male, `[`, c("statistic","p.value"))
+lres_male <- as.data.frame(lres_male)
+View(lres_male)
+```
+
+These analyses revealed that normality was violated in case of several musical abilities and entrainment conditions, and the distribution of certain IQ variables were also found to be problematic in both groups. Results showed similar patterns when normal distribution was tested by gender: normality was violated regarding certain musical abilities and entrainment conditions. These violations indicate that we could not run parametric tests on IQ, musical and entrainment variables. 
+
+## Results
+### Pre- to posttest results
+Mixed ANOVAs were conducted to investigate whether performance on tests was improved from the pre- to the posttest phase. In these analyses, *Group* (music, maths) and *Gender* (male, female) were used as between-subjects factors, and *Test performance* (pretest variable, posttest variable) was used as a within-subjects factor. Levene's test was used to evaluate the equality of variances in groups.
+Based on normality tests, parametric ANOVAs should not be used in case of IQ, musical and entrainment subtests. Since I could not run the non-parametric version of mixed ANOVA, the next section will show the results from parametric analyses. 
+
+#### IQ
+##### Block design 
+Analysis on Block design showed a significant *Group × Test* and a significant *Gender × Test* interaction. These effects indicate that performance was different for the maths and the music class, and for female and male participants. The means and interaction graphs shows that test performance was higher in the maths class, and male students outperformed female students.
+
+``` {r message=FALSE, warning=FALSE, fig.align="center"}
+# Block design
+iq_block <- subset(stand_data,
+                   select = c(gender, group, st_Block_design, st_Block_design_2))
+iq_block <- reshape(iq_block,
+                    varying = c("st_Block_design", "st_Block_design_2"),
+                    v.names = "Block_design",
+                    timevar = "test",
+                    times = c("pretest", "posttest"),
+                    direction = "long")
+iq_block$id <- factor(iq_block$id)
+iq_block$test <- factor(iq_block$test, levels = c("pretest", "posttest")) 
+  
+model_iq_block <- ezANOVA(iq_block,
+                          dv = "Block_design", 
+                          wid = id, 
+                          within = test,
+                          between = .(group, gender),
+                          observed = .(group, gender))
+model_iq_block # checking the results
+plot_model_block <- ezPlot(iq_block,
+                           dv = Block_design,
+                           wid = id,
+                           within = test,
+                           between = .(group, gender),
+                           x = test,
+                           split = group,
+                           row = gender)
+plot_model_block +
+  ylab("Mean scores (standardized)") +
+  ylim(8, 15) +
+  theme_bw()
+# assumption: equality of variances
+leveneTest(st_Block_design ~ as.factor(group) * as.factor(gender), 
+           data = stand_data)
+leveneTest(st_Block_design_2 ~ as.factor(group) * as.factor(gender), 
+           data = stand_data)
+```
+
+##### Digit span
+In case of Digit span, we found no main effect and interaction.
+
+```{r message=FALSE, warning=FALSE}
+# Digit span
+iq_digit <- subset(stand_data,
+                   select = c(gender, group, st_Digit_span, st_Digit_span_2))
+iq_digit <- reshape(iq_digit,
+                    varying = c("st_Digit_span", "st_Digit_span_2"),
+                    v.names = "Digit_span",
+                    timevar = "test",
+                    times = c("pretest", "posttest"),
+                    direction = "long")
+iq_digit$id <- factor(iq_digit$id)
+iq_digit$test <- factor(iq_digit$test, levels = c("pretest", "posttest")) 
+
+model_iq_digit <- ezANOVA(iq_digit,
+                          dv = "Digit_span", 
+                          wid = id, 
+                          within = test,
+                          between = .(group, gender),
+                          observed = .(group, gender))
+model_iq_digit # checking the results
+# assumption: equality of variances
+leveneTest(st_Digit_span ~ as.factor(group) * as.factor(gender), 
+           data = stand_data)
+leveneTest(st_Digit_span_2 ~ as.factor(group) * as.factor(gender), 
+           data = stand_data)
+```
+
+##### Vocabulary
+In case of Vocabulary subtest, there was a significant main effect of *Group* and a significant main effect of *Gender*. These suggest that the classes performed differently in this test, and performance varied with gender, but abilities did not improve considerably by the end of the school year. The plots and means show that the music class performed better on the test, and boys got higher vocabulary scores.
+
+```{r message=FALSE, warning=FALSE, fig.align="center"}
+# Vocabulary
+iq_vocabulary <- subset(stand_data,
+                        select = c(gender, group, st_Vocabulary, st_Vocabulary_2))
+iq_vocabulary <- reshape(iq_vocabulary,
+                         varying = c("st_Vocabulary", "st_Vocabulary_2"),
+                         v.names = "Vocabulary",
+                         timevar = "test",
+                         times = c("pretest", "posttest"),
+                         direction = "long")
+iq_vocabulary$id <- factor(iq_vocabulary$id)
+iq_vocabulary$test <- factor(iq_vocabulary$test, levels = c("pretest", "posttest")) 
+
+model_iq_vocabulary <- ezANOVA(iq_vocabulary,
+                               dv = "Vocabulary", 
+                               wid = id, 
+                               within = test,
+                               between = .(group, gender),
+                               observed = .(group, gender))
+
+model_iq_vocabulary # checking the results
+plot_model_vocabulary <- ezPlot(iq_vocabulary,
+                                dv = Vocabulary,
+                                wid = id,
+                                within = test,
+                                between = .(group, gender),
+                                x = test,
+                                split = group,
+                                row = gender)
+plot_model_vocabulary +
+  ylab("Mean scores (standardized)") +
+  ylim(10, 16) +
+  theme_bw()
+# assumption: equality of variances
+leveneTest(st_Vocabulary ~ as.factor(group) * as.factor(gender), 
+           data = stand_data)
+leveneTest(st_Vocabulary_2 ~ as.factor(group) * as.factor(gender), 
+           data = stand_data)
+```
+
+#### Language-related abilities
+In case of Reading, there was a significant main effect of *Test performance*, suggesting that reading ability improved significantly by the end of the school year.
+
+```{r message=FALSE, warning=FALSE, fig.align="center"}
+# Reading
+reading <- subset(stand_data,
+                  select = c(gender, group, st_reading, st_reading_2))
+reading <- na.omit(reading)
+reading <- reshape(reading,
+                   varying = c("st_reading", "st_reading_2"),
+                   v.names = "Reading",
+                   timevar = "test",
+                   times = c("pretest", "posttest"),
+                   direction = "long")
+reading$id <- factor(reading$id)
+reading$test <- factor(reading$test, levels = c("pretest", "posttest")) 
+
+model_reading <- ezANOVA(reading,
+                         dv = "Reading",
+                         wid = id, 
+                         within = test,
+                         between = .(group, gender),
+                         observed = .(group, gender))
+model_reading # checking the results
+plot_model_reading <- ezPlot(reading,
+                             dv = Reading,
+                             wid = id,
+                             within = test,
+                             between = .(group, gender),
+                             x = test,
+                             split = group,
+                             row = gender)
+plot_model_reading +
+  ylab("Mean scores (standardized)") +
+  ylim(35, 70) +
+  theme_bw()
+# assumption: equality of variances
+leveneTest(st_reading ~ as.factor(group) * as.factor(gender), 
+           data = stand_data)
+leveneTest(st_reading_2 ~ as.factor(group) * as.factor(gender), 
+           data = stand_data)
+```
+
+Similarly, there was a significant main effect of *Test performance* in Phonological awareness, and a main effect of *Test performance* in RAN skills, indicating that phonological and rapid naming skills improved considerably, as well. 
+
+```{r message=FALSE, warning=FALSE, fig.align="center"}
+# Phonological awareness
+PA <- subset(stand_data,
+             select = c(gender, group, st_PA_scale, st_PA_scale_2))
+PA <- na.omit(PA)
+PA <- reshape(PA,
+              varying = c("st_PA_scale", "st_PA_scale_2"),
+              v.names = "PA",
+              timevar = "test",
+              times = c("pretest", "posttest"),
+              direction = "long")
+PA$id <- factor(PA$id)
+PA$test <- factor(PA$test, levels = c("pretest", "posttest")) 
+
+model_PA <- ezANOVA(PA,
+                    dv = "PA",
+                    wid = id, 
+                    within = test,
+                    between = .(group, gender),
+                    observed = .(group, gender))
+model_PA # checking the results
+plot_model_PA <- ezPlot(PA,
+                        dv = PA,
+                        wid = id,
+                        within = test,
+                        between = .(group, gender),
+                        x = test,
+                        split = group,
+                        row = gender)
+plot_model_PA +
+  ylab("Mean scores (standardized)") +
+  ylim(40, 70) +
+  theme_bw()
+# assumption: equality of variances
+leveneTest(st_PA_scale ~ as.factor(group) * as.factor(gender), 
+           data = stand_data)
+leveneTest(st_PA_scale_2 ~ as.factor(group) * as.factor(gender), 
+           data = stand_data)
+
+# Rapid automatized naming (RAN)
+RAN <- subset(stand_data,
+              select = c(gender, group, st_RAN_scale, st_RAN_scale_2))
+RAN <- na.omit(RAN)
+RAN <- reshape(RAN,
+               varying = c("st_RAN_scale", "st_RAN_scale_2"),
+               v.names = "RAN",
+               timevar = "test",
+               times = c("pretest", "posttest"),
+               direction = "long")
+RAN$id <- factor(RAN$id)
+RAN$test <- factor(RAN$test, levels = c("pretest", "posttest")) 
+
+model_RAN <- ezANOVA(RAN,
+                     dv = "RAN",
+                     wid = id,
+                     within = test,
+                     between = .(group, gender),
+                     observed = .(group, gender))
+model_RAN # checking the results
+plot_model_RAN <- ezPlot(RAN,
+                         dv = RAN,
+                         wid = id,
+                         within = test,
+                         between = .(group, gender),
+                         x = test,
+                         split = group,
+                         row = gender)
+plot_model_RAN +
+  ylab("Mean scores (standardized)") +
+  ylim(30, 65) +
+  theme_bw()
+# assumption: equality of variances
+leveneTest(st_RAN_scale ~ as.factor(group) * as.factor(gender), 
+           data = stand_data)
+leveneTest(st_RAN_scale_2 ~ as.factor(group) * as.factor(gender), 
+           data = stand_data)
+```
+
+#### Musical abilities
+In case of Melody, we found a significant main effect of *Test performance*, indicating that melody discrimination improved considerably by the end of the year. 
+
+```{r message=FALSE, warning=FALSE, fig.align="center"}
+# Melody
+melody <- subset(stand_data,
+                 select = c(gender, group, melody, melody_2))
+melody <- na.omit(melody)
+melody <- reshape(melody,
+                  varying = c("melody", "melody_2"),
+                  v.names = "Melody",
+                  timevar = "test",
+                  times = c("pretest", "posttest"),
+                  direction = "long")
+melody$id <- factor(melody$id)
+melody$test <- factor(melody$test, levels = c("pretest", "posttest")) 
+
+model_melody <- ezANOVA(melody,
+                        dv = "Melody", 
+                        wid = id, 
+                        within = test,
+                        between = .(group, gender),
+                        observed = .(group, gender))
+model_melody # checking the results
+plot_model_melody <- ezPlot(melody,
+                            dv = Melody,
+                            wid = id,
+                            within = test,
+                            between = .(group, gender),
+                            x = test,
+                            split = group,
+                            row = gender)
+plot_model_melody +
+  ylab("Mean scores") +
+  ylim(5,9) +
+  theme_bw()
+# assumption: equality of variances
+leveneTest(melody ~ as.factor(group) * as.factor(gender), 
+           data = stand_data)
+leveneTest(melody_2 ~ as.factor(group) * as.factor(gender), 
+           data = stand_data)
+```
+
+We found a significant main effect of *Group* and a significant main effect of *Test performance* in Pitch perception. Means and plots related to Pitch indicate that students improved in pitch perception by the end of the year, moreover, children in the music class scored higher on this test compared to children in the maths class. 
+
+```{r message=FALSE, warning=FALSE, fig.align="center"}
+# Pitch
+pitch <- subset(stand_data,
+                select = c(gender, group, pitch, pitch_2))
+pitch <- na.omit(pitch)
+pitch <- reshape(pitch,
+                 varying = c("pitch", "pitch_2"),
+                 v.names = "Pitch",
+                 timevar = "test",
+                 times = c("pretest", "posttest"),
+                 direction = "long")
+pitch$id <- factor(pitch$id)
+pitch$test <- factor(pitch$test, levels = c("pretest", "posttest")) 
+
+model_pitch <- ezANOVA(pitch,
+                       dv = "Pitch",
+                       wid = id,
+                       within = test,
+                       between = .(group, gender),
+                       observed = .(group, gender))
+model_pitch # checking the results
+plot_model_pitch <- ezPlot(pitch,
+                           dv = Pitch,
+                           wid = id,
+                           within = test,
+                           between = .(group, gender),
+                           x = test,
+                           split = group,
+                           row = gender)
+plot_model_pitch +
+  ylab("Mean scores") +
+  ylim(5,13) +
+  theme_bw()
+# assumption: equality of variances
+leveneTest(pitch ~ as.factor(group) * as.factor(gender), 
+           data = stand_data)
+leveneTest(pitch_2 ~ as.factor(group) * as.factor(gender), 
+           data = stand_data)
+```
+
+A significant main effect of *Gender* was found in Rhythm subtest. Plots and means suggest that girls scored higher on this test. 
+
+```{r message=FALSE, warning=FALSE, fig.align="center"}
+# Rhythm
+rhythm <- subset(stand_data,
+                 select = c(gender, group, rhythm, rhythm_2))
+rhythm <- na.omit(rhythm)
+rhythm <- reshape(rhythm,
+                  varying = c("rhythm", "rhythm_2"),
+                  v.names = "Rhythm",
+                  timevar = "test",
+                  times = c("pretest", "posttest"),
+                  direction = "long")
+rhythm$id <- factor(rhythm$id)
+rhythm$test <- factor(rhythm$test, levels = c("pretest", "posttest")) 
+
+model_rhythm <- ezANOVA(rhythm,
+                        dv = "Rhythm",
+                        wid = id,
+                        within = test,
+                        between = .(group, gender),
+                        observed = .(group, gender))
+model_rhythm # checking the results
+plot_model_rhythm <- ezPlot(rhythm,
+                            dv = Rhythm,
+                            wid = id,
+                            within = test,
+                            between = .(group, gender),
+                            x = test,
+                            split = group,
+                            row = gender)
+plot_model_rhythm +
+  ylab("Mean scores") +
+  ylim(5,12) +
+  theme_bw()
+# assumption: equality of variances
+leveneTest(rhythm ~ as.factor(group) * as.factor(gender), 
+           data = stand_data)
+leveneTest(rhythm_2 ~ as.factor(group) * as.factor(gender), 
+           data = stand_data)
+```
+
+No significant main effect or interaction was found regarding Harmony and Tempo perception. 
+
+```{r message=FALSE, warning=FALSE}
+# Harmony
+harmony <- subset(stand_data,
+                  select = c(gender, group, harmony, harmony_2))
+harmony <- na.omit(harmony)
+harmony <- reshape(harmony,
+                   varying = c("harmony", "harmony_2"),
+                   v.names = "Harmony",
+                   timevar = "test",
+                   times = c("pretest", "posttest"),
+                   direction = "long")
+harmony$id <- factor(harmony$id)
+harmony$test <- factor(harmony$test, levels = c("pretest", "posttest")) 
+
+model_harmony <- ezANOVA(harmony,
+                         dv = "Harmony", 
+                         wid = id, 
+                         within = test,
+                         between = .(group, gender),
+                         observed = .(group, gender))
+model_harmony # checking the results
+# assumption: equality of variances
+leveneTest(harmony ~ as.factor(group) * as.factor(gender), 
+           data = stand_data)
+leveneTest(harmony_2 ~ as.factor(group) * as.factor(gender), 
+           data = stand_data)
+
+# Tempo
+tempo <- subset(stand_data,
+                select = c(gender, group, tempo, tempo_2))
+tempo <- na.omit(tempo)
+tempo <- reshape(tempo,
+                 varying = c("tempo", "tempo_2"),
+                 v.names = "Tempo",
+                 timevar = "test",
+                 times = c("pretest", "posttest"),
+                 direction = "long")
+tempo$id <- factor(tempo$id)
+tempo$test <- factor(tempo$test, levels = c("pretest", "posttest")) 
+
+model_tempo <- ezANOVA(tempo,
+                       dv = "Tempo",
+                       wid = id, 
+                       within = test,
+                       between = .(group, gender),
+                       observed = .(group, gender))
+model_tempo # checking the results
+# assumption: equality of variances
+leveneTest(tempo ~ as.factor(group) * as.factor(gender), 
+           data = stand_data)
+leveneTest(tempo_2 ~ as.factor(group) * as.factor(gender), 
+           data = stand_data)
+```
+
+There was a significant main effect of *Test performance* in Visual connection. It indicates that children improved significantly in the ability to correspond a heard melody to its visually presented contour. 
+
+```{r message=FALSE, warning=FALSE, fig.align="center"}
+# Visual connection
+vis_conn <- subset(stand_data,
+                   select = c(gender, group, vis_connection, vis_connection_2))
+vis_conn <- na.omit(vis_conn)
+vis_conn <- reshape(vis_conn,
+                    varying = c("vis_connection", "vis_connection_2"),
+                    v.names = "Vis_conn",
+                    timevar = "test",
+                    times = c("pretest", "posttest"),
+                    direction = "long")
+vis_conn$id <- factor(vis_conn$id)
+vis_conn$test <- factor(vis_conn$test, levels = c("pretest", "posttest")) 
+
+model_vis_conn <- ezANOVA(vis_conn,
+                          dv = "Vis_conn",
+                          wid = id,
+                          within = test,
+                          between = .(group, gender),
+                          observed = .(group, gender))
+model_vis_conn # checking the results
+plot_model_vis_conn <- ezPlot(vis_conn,
+                              dv = Vis_conn,
+                              wid = id,
+                              within = test,
+                              between = .(group, gender),
+                              x = test,
+                              split = group,
+                              row = gender)
+plot_model_vis_conn +
+  ylab("Mean scores") +
+  ylim(4,12) +
+  theme_bw()
+# assumption: equality of variances
+leveneTest(vis_connection ~ as.factor(group) * as.factor(gender), 
+           data = stand_data)
+leveneTest(vis_connection_2 ~ as.factor(group) * as.factor(gender), 
+           data = stand_data)
+```
+
+#### Rhythmic entrainment
+First, we compared pretest and posttest results using the aggregated paced (*entr_paced*) and unpaced (*entr_unpaced*) variables. We found no main effect or interaction in these cases. 
+
+```{r message=FALSE, warning=FALSE}
+# Paced task
+entr_p <- subset(stand_data,
+                 select = c(gender, group, entr_paced, entr_paced_2))
+entr_p <- na.omit(entr_p)
+entr_p <- reshape(entr_p,
+                  varying = c("entr_paced", "entr_paced_2"),
+                  v.names = "Entr_p",
+                  timevar = "test",
+                  times = c("pretest", "posttest"),
+                  direction = "long")
+entr_p$id <- factor(entr_p$id)
+entr_p$test <- factor(entr_p$test, levels = c("pretest", "posttest")) 
+
+model_entr_p <- ezANOVA(entr_p,
+                        dv = "Entr_p", 
+                        wid = id, 
+                        within = test,
+                        between = .(group, gender),
+                        observed = .(group, gender))
+model_entr_p # checking the results
+# assumption: equality of variances
+leveneTest(entr_paced ~ as.factor(group) * as.factor(gender), 
+           data = stand_data)
+leveneTest(entr_paced_2 ~ as.factor(group) * as.factor(gender), 
+           data = stand_data)
+
+# Unpaced task
+entr_up <- subset(stand_data,
+                  select = c(gender, group, entr_unpaced, entr_unpaced_2))
+entr_up <- na.omit(entr_up)
+entr_up <- reshape(entr_up,
+                   varying = c("entr_unpaced", "entr_unpaced_2"),
+                   v.names = "Entr_up",
+                   timevar = "test",
+                   times = c("pretest", "posttest"),
+                   direction = "long")
+entr_up$id <- factor(entr_up$id)
+entr_up$test <- factor(entr_up$test, levels = c("pretest", "posttest")) 
+
+model_entr_up <- ezANOVA(entr_up,
+                         dv = "Entr_up",
+                         wid = id, 
+                         within = test,
+                         between = .(group, gender),
+                         observed = .(group, gender))
+model_entr_up # checking the results
+# assumption: equality of variances
+leveneTest(entr_unpaced ~ as.factor(group) * as.factor(gender), 
+           data = stand_data)
+leveneTest(entr_unpaced_2 ~ as.factor(group) * as.factor(gender), 
+           data = stand_data)
+```
+
+We also investigated whether performance between conditions based on frequency was different. In these analyses, *Group* (music, maths) and *Gender* (male, female) were used as between-subjects factors, and *Frequency* (1.5 Hz, 2 Hz, 2.5 Hz) was used as a within-subjects factor. 
+In the case of pretest paced conditions, a significant three-way *Group × Gender × Test* interaction was found. This interaction suggests that children performed differently in the conditions, and based on the means and plots we conclude that the music class was more accurate in tapping, and girls showed better performance. 
+
+``` {r message=FALSE, warning=FALSE, fig.align="center"}
+# Comparing pretest results by paced conditions
+entr_paced <- subset(stand_data,
+                     select = c(gender, group, 
+                                entr_paced_2Hz, entr_paced_2.5Hz, entr_paced_1.5Hz))
+entr_paced <- na.omit(entr_paced)
+entr_paced <- reshape(entr_paced,
+                      varying = c("entr_paced_2Hz", "entr_paced_2.5Hz", "entr_paced_1.5Hz"),
+                      v.names = "Entr_paced",
+                      timevar = "test",
+                      times = c("2Hz", "2.5Hz", "1.5Hz"),
+                      direction = "long")
+entr_paced$id <- factor(entr_paced$id)
+entr_paced$test <- factor(entr_paced$test, levels = c("2Hz", "2.5Hz", "1.5Hz")) 
+
+model_entr_paced <- ezANOVA(entr_paced,
+                            dv = "Entr_paced", 
+                            wid = id, 
+                            within = test,
+                            between = .(group, gender),
+                            observed = .(group, gender))
+model_entr_paced # checking the results
+plot_model_entr_paced <- ezPlot(entr_paced,
+                                dv = Entr_paced,
+                                wid = id,
+                                within = test,
+                                between = .(group, gender),
+                                x = test,
+                                split = group,
+                                row = gender)
+plot_model_entr_paced +
+  ylab("Mean variance (s)") +
+  theme_bw()
+```
+
+In posttest paced conditions, there was a significant main effect of *Test performance*. Plots and means suggest that children were the least accurate in the fastest, 2.5 Hz condition, and they were the best in the slowest, 1.5 Hz condition. 
+
+``` {r message=FALSE, warning=FALSE, fig.align="center"}
+# Comparing posttest results by paced conditions
+entr_paced_2 <- subset(stand_data,
+                       select = c(gender, group, 
+                                  entr_paced_2Hz_2, entr_paced_2.5Hz_2, 
+                                  entr_paced_1.5Hz_2))
+entr_paced_2 <- na.omit(entr_paced_2)
+entr_paced_2 <- reshape(entr_paced_2,
+                        varying = c("entr_paced_2Hz_2", "entr_paced_2.5Hz_2", 
+                                  "entr_paced_1.5Hz_2"),
+                        v.names = "Entr_paced",
+                        timevar = "test",
+                        times = c("2Hz", "2.5Hz", "1.5Hz"),
+                        direction = "long")
+entr_paced_2$id <- factor(entr_paced_2$id)
+entr_paced_2$test <- factor(entr_paced_2$test, 
+                            levels = c("2Hz", "2.5Hz", "1.5Hz")) 
+
+model_entr_paced_2 <- ezANOVA(entr_paced_2,
+                              dv = "Entr_paced",
+                              wid = id,
+                              within = test,
+                              between = .(group, gender),
+                              observed = .(group, gender))
+model_entr_paced_2 # checking the results
+plot_model_entr_paced_2 <- ezPlot(entr_paced_2,
+                                  dv = Entr_paced,
+                                  wid = id,
+                                  within = test,
+                                  between = .(group, gender),
+                                  x = test,
+                                  split = group,
+                                  row = gender)
+plot_model_entr_paced_2 +
+  ylab("Mean variance (s)") +
+  theme_bw()
+```
+
+Analyses on pretest and posttest unpaced entrainment conditions revealed no significant main effect or interaction. 
+
+```{r message=FALSE, warning=FALSE}
+# Comparing pretest results by unpaced conditions
+entr_unpaced <- subset(stand_data,
+                       select = c(gender, group,
+                                  entr_unpaced_2Hz, entr_unpaced_2.5Hz, 
+                                  entr_unpaced_1.5Hz))
+entr_unpaced <- na.omit(entr_unpaced)
+entr_unpaced <- reshape(entr_unpaced,
+                        varying = c("entr_unpaced_2Hz", "entr_unpaced_2.5Hz", 
+                                    "entr_unpaced_1.5Hz"),
+                        v.names = "Entr_unpaced",
+                        timevar = "test",
+                        times = c("2Hz", "2.5Hz", "1.5Hz"),
+                        direction = "long")
+entr_unpaced$id <- factor(entr_unpaced$id)
+entr_unpaced$test <- factor(entr_unpaced$test, 
+                            levels = c("2Hz", "2.5Hz", "1.5Hz")) 
+
+model_entr_unpaced <- ezANOVA(entr_unpaced,
+                              dv = "Entr_unpaced",
+                              wid = id, 
+                              within = test,
+                              between = .(group, gender),
+                              observed = .(group, gender))
+model_entr_unpaced # checking the results
+
+# Comparing posttest results by unpaced conditions
+entr_unpaced_2 <- subset(stand_data,
+                         select = c(gender, group,
+                                    entr_unpaced_2Hz_2, entr_unpaced_2.5Hz_2, 
+                                    entr_unpaced_1.5Hz_2))
+entr_unpaced_2 <- na.omit(entr_unpaced_2)
+entr_unpaced_2 <- reshape(entr_unpaced_2,
+                          varying = c("entr_unpaced_2Hz_2", "entr_unpaced_2.5Hz_2", 
+                                      "entr_unpaced_1.5Hz_2"),
+                          v.names = "Entr_unpaced",
+                          timevar = "test",
+                          times = c("2Hz", "2.5Hz", "1.5Hz"),
+                          direction = "long")
+entr_unpaced_2$id <- factor(entr_unpaced_2$id)
+entr_unpaced_2$test <- factor(entr_unpaced_2$test, 
+                              levels = c("2Hz", "2.5Hz", "1.5Hz")) 
+
+model_entr_unpaced_2 <- ezANOVA(entr_unpaced_2,
+                                dv = "Entr_unpaced",
+                                wid = id, 
+                                within = test,
+                                between = .(group, gender),
+                                observed = .(group, gender))
+model_entr_unpaced_2 # checking the results
+```
+
+### Correlation analyses
+We conducted correlation analyses by the classes separately, using pretest and posttest variables. First, we investigated whether the measured abilities associated with each other at the beginning of schooling, therefore we selected pretest variables to compute correlation coefficients for each group. Since several variables violated normality, we conducted Spearman correlation coefficients. 
+
+```{r fig.align="center"}
+# creating the pretest subset for the music class
+music_predata <- stand_data %>%
+  filter(group == "music") %>% 
+  select(st_Block_design, st_Digit_span, st_Vocabulary,
+         st_reading, st_PA_scale, st_RAN_scale,
+         melody, pitch, rhythm, harmony, tempo, vis_connection,
+         entr_paced_1.5Hz, entr_paced_2Hz, entr_paced_2.5Hz,
+         entr_unpaced_1.5Hz, entr_unpaced_2Hz, entr_unpaced_2.5Hz) 
+  
+# creating the pretest subset for the maths class
+maths_predata <- stand_data %>%
+  filter(group == "maths") %>%
+  select(st_Block_design, st_Digit_span, st_Vocabulary,
+         st_reading, st_PA_scale, st_RAN_scale,
+         melody, pitch, rhythm, harmony, tempo, vis_connection,
+         entr_paced_1.5Hz, entr_paced_2Hz, entr_paced_2.5Hz,
+         entr_unpaced_1.5Hz, entr_unpaced_2Hz, entr_unpaced_2.5Hz) 
+  
+## Pretest associations
+# computing pretest correlations for each group
+corr_music_pre <- rcorr(as.matrix(music_predata), type = "spearman") #music class
+corr_maths_pre <- rcorr(as.matrix(maths_predata), type = "spearman") #maths class
+
+#creating pretest correlation plots for each group
+preplot_music <- corrplot(corr_music_pre$r, 
+                          method = c("square"),
+                          type="upper", diag = F, tl.col = "black", 
+                          tl.cex = 0.75, tl.srt = 90,
+                          p.mat = corr_music_pre$P, 
+                          sig.level = 0.05, insig = "blank",
+                          title = "Pretest correlations - Music class")
+
+preplot_maths <- corrplot(corr_maths_pre$r, 
+                          method = c("square"), 
+                          type="upper", diag = F, tl.col = "black", 
+                          tl.cex = 0.75, tl.srt = 90,
+                          p.mat = corr_maths_pre$P, 
+                          sig.level = 0.05, insig = "blank", 
+                          title = "Pretest correlations - Maths class")
+```
+
+Basically, the coefficients and the plots indicate similar patterns in the music and the maths class: subtests measuring similar abilities correlated significantly. However, this pattern was more expressed regarding music-related abilities in the music class: musical subtests and entrainment subtests were associated with each other. In the maths class, linguistic subtests were also correlated with each other. Interestingly, the relationships between certain linguistic abilities and entrainment were different: besides reading and RAN, PA was also associated with entrainment accuracy in the music class. These results indicate that better rhythmic synchronization is associated with better phonological skills in the music class.   
+We investigated these associations in posttest results, as well.
+
+```{r fig.align="center"}
+# creating the posttest subset of variables for the maths class
+music_postdata <- stand_data %>%
+  filter(group == "music") %>%
+  select(st_Block_design_2, st_Digit_span_2, st_Vocabulary_2,
+         st_reading_2, st_PA_scale_2, st_RAN_scale_2,
+         melody_2, pitch_2, rhythm_2, harmony_2, tempo_2, vis_connection_2,
+         entr_paced_1.5Hz_2, entr_paced_2Hz_2, entr_paced_2.5Hz_2,
+         entr_unpaced_1.5Hz_2, entr_unpaced_2Hz_2, entr_unpaced_2.5Hz_2) 
+  
+# creating the posttest subset of variables for the maths class
+maths_postdata <- stand_data %>%
+  filter(group == "maths") %>%
+  select(st_Block_design_2, st_Digit_span_2, st_Vocabulary_2,
+         st_reading_2, st_PA_scale_2, st_RAN_scale_2,
+         melody_2, pitch_2, rhythm_2, harmony_2, tempo_2, vis_connection_2,
+         entr_paced_1.5Hz_2, entr_paced_2Hz_2, entr_paced_2.5Hz_2,
+         entr_unpaced_1.5Hz_2, entr_unpaced_2Hz_2, entr_unpaced_2.5Hz_2) 
+
+# computing posttest correlations for each group
+corr_music_post <-  rcorr(as.matrix(music_postdata), type = "spearman") #music class
+corr_maths_post <-  rcorr(as.matrix(maths_postdata), type = "spearman") #maths class
+
+#creating posttest correlation plots for each group
+postplot_music <- corrplot(corr_music_post$r, 
+                           method = c("square"),
+                           type="upper", diag = F, tl.col = "black",
+                           tl.cex = 0.75, tl.srt = 90,
+                           p.mat = corr_music_post$P, 
+                           sig.level = 0.05, insig = "blank",
+                           title = "Posttest correlations - Music class")
+
+postplot_maths <- corrplot(corr_maths_post$r, 
+                           method = c("square"), 
+                           type="upper", diag = F, tl.col = "black", 
+                           tl.cex = 0.75, tl.srt = 90,
+                           p.mat = corr_maths_post$P, 
+                           sig.level = 0.05, insig = "blank",
+                           title = "Pretest correlations - Maths class")
+```
+
+Comparing the coefficients and plots of the classes, we can see that correlations became stronger within the tests in the maths class: subtests of IQ, linguistic tasks, musical subtests, and entrainment conditions associated with each other more significantly. However, musical subtests were not correlated with language-related tasks. Associations showed a different pattern in the music class: besides modest correlations within particular tests, significant associations were found between musical subtests and phonological awareness. Phonological awareness was significantly correlated with melody, rhythm, harmony discrimination and visual connection. Additionally, reading ability was associated with tempo perception and visual connection. These results indicate that the association between musical and linguistic abilities became more expressed in the music class by the end of the first school year.   
+Based on the specific music-language relationship found in the music class, we visualized these pre- and posttest pairwise comparisons on SPLOM plots for each group. These scatterplot matrices allowed us to explore the distribution of each variable, the relationships between linguistic and musical variables, and correlation coefficients. These plots indicate that there are only a few linear relationships between musical and linguistic variables and confirm that only modest significant associations were found.
+
+```{r fig.align="center"}
+## Pretest associations
+# Music class
+splom_music_pre <- pairs.panels(music_predata[, c("st_reading", "st_PA_scale", 
+                                                  "st_RAN_scale", "melody", 
+                                                  "pitch", "rhythm", "harmony", 
+                                                  "tempo", "vis_connection")],
+                                scale = TRUE, stars = TRUE, method = "spearman")
+# Maths class
+splom_maths_pre <- pairs.panels(maths_predata[, c("st_reading", "st_PA_scale", 
+                                                  "st_RAN_scale","melody", 
+                                                  "pitch", "rhythm", "harmony", 
+                                                  "tempo", "vis_connection")],
+                                scale = TRUE, stars = TRUE, method = "spearman")
+
+## Posttest associations
+# Music class
+splom_music_post <- pairs.panels(music_postdata[, c("st_reading_2", "st_PA_scale_2", 
+                                                    "st_RAN_scale_2", "melody_2", 
+                                                    "pitch_2", "rhythm_2", "harmony_2", 
+                                                    "tempo_2", "vis_connection_2")], 
+                                 scale = TRUE, stars = TRUE, method = "spearman")
+# Maths class
+splom_maths_post <- pairs.panels(maths_postdata[, c("st_reading_2", "st_PA_scale_2", 
+                                                    "st_RAN_scale_2", "melody_2", 
+                                                    "pitch_2", "rhythm_2", "harmony_2", 
+                                                    "tempo_2", "vis_connection_2")], 
+                                 scale = TRUE, stars = TRUE, method = "spearman")
+```
+
+
+P-values from correlation analyses were adjusted for multiple comparisons, using Bonferroni correction. After the correction, almost all the modest significant relationships disappeared. 
+
+```{r}
+# Pretest correlations
+pre_music <- as.matrix(corr_music_pre$P)
+pre_maths <- as.matrix(corr_maths_pre$P)
+# adjusting p-values for multiple comparisons
+corr_music_pre$P <- p.adjust(corr_music_pre$P,
+                             method = "bonferroni")
+corr_maths_pre$P <- p.adjust(corr_maths_pre$P,
+                             method = "bonferroni")
+
+# Posttest correlations
+post_music <- as.matrix(corr_music_post$P)
+post_maths <- as.matrix(corr_maths_post$P)
+# adjusting p-values for multiple comparisons
+corr_music_post$P <- p.adjust(corr_music_post$P,
+                              method = "bonferroni")
+corr_maths_post$P <- p.adjust(corr_maths_post$P, 
+                              method = "bonferroni")
+```
+
+
+### Conclusion
+The results of this study did not confirm all of our previous hypotheses. We found differences between the classes only in Block design, Vocabulary and Pitch discrimination performance. Students improved significantly only in Block design, language-related abilitites, melody perception, pitch discrimination, and visual connection. Correlation analyses revealed no overall association between performance on IQ subtests, musical measurements and language-related tests. Moreover, we found significant associations between linguistic and musical auditory abilities only in the music class. These results indicate that improvements in musical and linguistic abilities may appear in the first school year regardless of the intensity of musical activities in elementary school education. Moreover, six months of music education may enhance the strength of relationship between music perception and linguistic abilities.  
+Further detailed analyses are required to clarify whether the lack of difference in abilities between the classes and the relationships found between musical auditory skills and language-related abilities in the music class show reliable effects.
+
+
+### References
+Asztalos, K., & Csapó, B. (2016). Development of musical abilities: Cross-sectional computer-based assessments in educational contexts. *Psychology of Music*, 1?17.  
+Nagyné Réz, I., Lányiné Engelmayer, Á., Kuncz, E., Mészáros, A., & Mlinkó, R. (2008). *Wechsler Intelligence Scale for Children - fourth edition. Magyar adaptáció [Hungarian adaptation]*. Budapest, HU: OS-Hungary Ltd.   
+Tóth, D., Csépe, V., Vaessen, A., & Blomert, L. (2014). *A diszlexia differenciáldiagnózisa. Az olvasás és helyesírás kognitív elemzése. Technikai kézikönyv. [3DM-H: Dyslexia Differential Diagnosis. Cognitive analysis of reading and spelling (Hungarian)]*. Kogentum: Nyíregyháza, Hungary. 
+
+
+
+#### Acknowledgement
+The study was funded by the Content Pedagogy Research Program of the Hungarian Academy of Sciences. For detailed information, see also [http://kodaly.hu/hu/kutatas/aktiv-zenetanulas]. 
